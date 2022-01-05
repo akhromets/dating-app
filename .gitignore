@@ -456,5 +456,6 @@ $RECYCLE.BIN/
 API/appsettings.json
 appsettings.json
 
+datingapp.db
 API/datingapp.db
 API/datingapp.db*
